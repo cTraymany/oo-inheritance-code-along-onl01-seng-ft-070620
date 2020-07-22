@@ -6,8 +6,9 @@ class Vehicle
     @wheel_number = wheel_number
   end
   
-  
-  
+  def go
+    
+  end  
   
   
   
